@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\bin\Debug\silla.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\bin\Debug\silla.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\bin\Debug\silla.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\bin\Debug\OpenTK.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\bin\Debug\OpenTK.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\bin\Debug\OpenTK.xml
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\bin\Debug\OpenTK.dll.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\obj\Debug\silla.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\obj\Debug\silla.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\obj\Debug\silla.csproj.CopyComplete
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\obj\Debug\silla.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\silla\silla\obj\Debug\silla.pdb
